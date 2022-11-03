@@ -13,5 +13,4 @@
 
 My OpenSource Contribution on Hacktoberfest-2022
 
-<br>
 [![@asmallick1999's Holopin board](https://holopin.me/asmallick1999)](https://holopin.io/@asmallick1999)
